@@ -23,7 +23,11 @@ namespace Triangle
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+<<<<<<< HEAD
             Application.Run(new Tehnika());
+=======
+            Application.Run(new Toit());
+>>>>>>> master
         }
     }
 }
