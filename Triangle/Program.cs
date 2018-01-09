@@ -16,7 +16,7 @@ namespace Triangle
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Toit());
+            Application.Run(new Form1());
         }
     }
 }
