@@ -51,7 +51,16 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+
     <Compile Include="Ostukorv.cs" />
+
+    <Compile Include="m2ng.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="m2ng.Designer.cs">
+      <DependentUpon>m2ng.cs</DependentUpon>
+    </Compile>
+
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Riided.cs">
@@ -69,6 +78,9 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="m2ng.resx">
+      <DependentUpon>m2ng.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -77,6 +89,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="Riided.resx">
       <DependentUpon>Riided.cs</DependentUpon>
@@ -96,6 +109,45 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MYSTERY Ajalooline mõõk.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\katana_hd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JAKKS Real Constuctions SUUR TÖÖKODA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\539629_539667_bratz_selfie_stick_with_doll_jade_fw_pkg_f_s.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\60132.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b6156eu40_5010994944872_pkg_15_online_72dpi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sample.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16554_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fidentspinsetlgbm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download_2__1_3.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chicco_toys-2011-38mik.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leg-j-9032.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\j08199_1.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
