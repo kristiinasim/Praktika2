@@ -44,6 +44,8 @@
             this.button14 = new System.Windows.Forms.Button();
             this.button15 = new System.Windows.Forms.Button();
             this.button16 = new System.Windows.Forms.Button();
+            this.button17 = new System.Windows.Forms.Button();
+            this.button18 = new System.Windows.Forms.Button();
             this.pictureBox14 = new System.Windows.Forms.PictureBox();
             this.pictureBox13 = new System.Windows.Forms.PictureBox();
             this.pictureBox12 = new System.Windows.Forms.PictureBox();
@@ -58,8 +60,6 @@
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.button17 = new System.Windows.Forms.Button();
-            this.button18 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
@@ -86,6 +86,7 @@
             this.button1.TabIndex = 0;
             this.button1.Text = "Avokaado\r\n4,99€ kg";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // button2
             // 
@@ -255,6 +256,28 @@
             this.button16.Text = "Kartulikrõpsud Koore-Sibula, PRINGLES, 165 g\r\n2,39€";
             this.button16.UseVisualStyleBackColor = false;
             // 
+            // button17
+            // 
+            this.button17.BackColor = System.Drawing.Color.Aqua;
+            this.button17.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button17.Location = new System.Drawing.Point(29, 435);
+            this.button17.Name = "button17";
+            this.button17.Size = new System.Drawing.Size(101, 46);
+            this.button17.TabIndex = 30;
+            this.button17.Text = "<- Mänguasjad";
+            this.button17.UseVisualStyleBackColor = false;
+            // 
+            // button18
+            // 
+            this.button18.BackColor = System.Drawing.Color.Aqua;
+            this.button18.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button18.Location = new System.Drawing.Point(980, 452);
+            this.button18.Name = "button18";
+            this.button18.Size = new System.Drawing.Size(103, 42);
+            this.button18.TabIndex = 31;
+            this.button18.Text = "Riided ->";
+            this.button18.UseVisualStyleBackColor = false;
+            // 
             // pictureBox14
             // 
             this.pictureBox14.Image = global::Triangle.Properties.Resources._5053990101597;
@@ -394,28 +417,6 @@
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 16;
             this.pictureBox1.TabStop = false;
-            // 
-            // button17
-            // 
-            this.button17.BackColor = System.Drawing.Color.Aqua;
-            this.button17.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.button17.Location = new System.Drawing.Point(29, 435);
-            this.button17.Name = "button17";
-            this.button17.Size = new System.Drawing.Size(101, 46);
-            this.button17.TabIndex = 30;
-            this.button17.Text = "<- Mänguasjad";
-            this.button17.UseVisualStyleBackColor = false;
-            // 
-            // button18
-            // 
-            this.button18.BackColor = System.Drawing.Color.Aqua;
-            this.button18.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.button18.Location = new System.Drawing.Point(980, 452);
-            this.button18.Name = "button18";
-            this.button18.Size = new System.Drawing.Size(103, 42);
-            this.button18.TabIndex = 31;
-            this.button18.Text = "Riided ->";
-            this.button18.UseVisualStyleBackColor = false;
             // 
             // Toit
             // 
