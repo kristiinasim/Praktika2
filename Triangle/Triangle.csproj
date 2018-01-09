@@ -53,6 +53,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Riided.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Riided.Designer.cs">
+      <DependentUpon>Riided.cs</DependentUpon>
+    </Compile>
     <Compile Include="Tehnika.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -71,6 +77,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Riided.resx">
+      <DependentUpon>Riided.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Tehnika.resx">
       <DependentUpon>Tehnika.cs</DependentUpon>
     </EmbeddedResource>
