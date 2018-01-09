@@ -191,7 +191,7 @@
             this.ToRiidedNupp.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.ToRiidedNupp.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.ToRiidedNupp.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.ToRiidedNupp.Location = new System.Drawing.Point(21, 462);
+            this.ToRiidedNupp.Location = new System.Drawing.Point(23, 510);
             this.ToRiidedNupp.Name = "ToRiidedNupp";
             this.ToRiidedNupp.Size = new System.Drawing.Size(185, 42);
             this.ToRiidedNupp.TabIndex = 10;
@@ -212,7 +212,7 @@
             // 
             // ToManguasjadNupp
             // 
-            this.ToManguasjadNupp.Location = new System.Drawing.Point(917, 462);
+            this.ToManguasjadNupp.Location = new System.Drawing.Point(917, 510);
             this.ToManguasjadNupp.Name = "ToManguasjadNupp";
             this.ToManguasjadNupp.Size = new System.Drawing.Size(185, 42);
             this.ToManguasjadNupp.TabIndex = 12;
