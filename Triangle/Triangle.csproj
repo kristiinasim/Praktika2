@@ -51,6 +51,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Ostja.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tehnika.cs">
@@ -70,6 +71,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="Tehnika.resx">
       <DependentUpon>Tehnika.cs</DependentUpon>
@@ -86,6 +88,39 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thOHG8WHF9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nööpklapid.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jbl karp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JBL extreme.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MyPhone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LG mon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wir mous.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KeyboardLED.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LG TV.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16GB.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nimetu.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
