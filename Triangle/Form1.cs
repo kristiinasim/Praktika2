@@ -16,5 +16,34 @@ namespace Triangle
         {
             InitializeComponent();
         }
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Tehnika t = new Tehnika();
+            t.ShowDialog();
+            this.Close();
+        }
+
+
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            
+            
+            
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            this.Hide();
+            Riided t = new Riided();
+            t.ShowDialog();
+            this.Close();
+        }
     }
 }
