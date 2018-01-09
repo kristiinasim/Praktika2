@@ -51,11 +51,11 @@
             this.pictureBox8 = new System.Windows.Forms.PictureBox();
             this.pictureBox7 = new System.Windows.Forms.PictureBox();
             this.pictureBox6 = new System.Windows.Forms.PictureBox();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
@@ -63,11 +63,11 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             this.SuspendLayout();
             // 
             // button1
@@ -254,6 +254,7 @@
             // 
             // pictureBox12
             // 
+            this.pictureBox12.Image = global::Triangle.Properties.Resources.fidentspinsetlgbm;
             this.pictureBox12.Location = new System.Drawing.Point(219, 194);
             this.pictureBox12.Name = "pictureBox12";
             this.pictureBox12.Size = new System.Drawing.Size(100, 109);
@@ -263,6 +264,7 @@
             // 
             // pictureBox11
             // 
+            this.pictureBox11.Image = global::Triangle.Properties.Resources._16554_1;
             this.pictureBox11.Location = new System.Drawing.Point(62, 194);
             this.pictureBox11.Name = "pictureBox11";
             this.pictureBox11.Size = new System.Drawing.Size(100, 109);
@@ -272,6 +274,7 @@
             // 
             // pictureBox10
             // 
+            this.pictureBox10.Image = global::Triangle.Properties.Resources.JAKKS_Real_Constuctions_SUUR_TÖÖKODA;
             this.pictureBox10.Location = new System.Drawing.Point(219, 12);
             this.pictureBox10.Name = "pictureBox10";
             this.pictureBox10.Size = new System.Drawing.Size(100, 109);
@@ -281,6 +284,7 @@
             // 
             // pictureBox9
             // 
+            this.pictureBox9.Image = global::Triangle.Properties.Resources._539629_539667_bratz_selfie_stick_with_doll_jade_fw_pkg_f_s;
             this.pictureBox9.Location = new System.Drawing.Point(388, 12);
             this.pictureBox9.Name = "pictureBox9";
             this.pictureBox9.Size = new System.Drawing.Size(100, 109);
@@ -290,6 +294,7 @@
             // 
             // pictureBox8
             // 
+            this.pictureBox8.Image = global::Triangle.Properties.Resources._60132;
             this.pictureBox8.Location = new System.Drawing.Point(609, 12);
             this.pictureBox8.Name = "pictureBox8";
             this.pictureBox8.Size = new System.Drawing.Size(100, 109);
@@ -299,6 +304,7 @@
             // 
             // pictureBox7
             // 
+            this.pictureBox7.Image = global::Triangle.Properties.Resources.b6156eu40_5010994944872_pkg_15_online_72dpi;
             this.pictureBox7.Location = new System.Drawing.Point(769, 12);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(100, 109);
@@ -308,6 +314,7 @@
             // 
             // pictureBox6
             // 
+            this.pictureBox6.Image = global::Triangle.Properties.Resources.sample;
             this.pictureBox6.Location = new System.Drawing.Point(926, 12);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(100, 109);
@@ -315,8 +322,19 @@
             this.pictureBox6.TabIndex = 30;
             this.pictureBox6.TabStop = false;
             // 
+            // pictureBox5
+            // 
+            this.pictureBox5.Image = global::Triangle.Properties.Resources.j08199_1;
+            this.pictureBox5.Location = new System.Drawing.Point(926, 194);
+            this.pictureBox5.Name = "pictureBox5";
+            this.pictureBox5.Size = new System.Drawing.Size(100, 109);
+            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox5.TabIndex = 29;
+            this.pictureBox5.TabStop = false;
+            // 
             // pictureBox4
             // 
+            this.pictureBox4.Image = global::Triangle.Properties.Resources.leg_j_9032;
             this.pictureBox4.Location = new System.Drawing.Point(769, 194);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(100, 109);
@@ -326,6 +344,7 @@
             // 
             // pictureBox3
             // 
+            this.pictureBox3.Image = global::Triangle.Properties.Resources.chicco_toys_2011_38mik;
             this.pictureBox3.Location = new System.Drawing.Point(609, 194);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(100, 109);
@@ -335,6 +354,7 @@
             // 
             // pictureBox2
             // 
+            this.pictureBox2.Image = global::Triangle.Properties.Resources.download_2__1_3;
             this.pictureBox2.Location = new System.Drawing.Point(375, 194);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(100, 109);
@@ -344,6 +364,7 @@
             // 
             // pictureBox1
             // 
+            this.pictureBox1.Image = global::Triangle.Properties.Resources.katana_hd;
             this.pictureBox1.Location = new System.Drawing.Point(62, 12);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(100, 109);
@@ -351,22 +372,12 @@
             this.pictureBox1.TabIndex = 25;
             this.pictureBox1.TabStop = false;
             // 
-            // pictureBox5
-            // 
-            this.pictureBox5.Location = new System.Drawing.Point(926, 194);
-            this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(100, 109);
-            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox5.TabIndex = 37;
-            this.pictureBox5.TabStop = false;
-            // 
             // m2ng
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Plum;
             this.ClientSize = new System.Drawing.Size(1129, 633);
-            this.Controls.Add(this.pictureBox5);
             this.Controls.Add(this.pictureBox12);
             this.Controls.Add(this.pictureBox11);
             this.Controls.Add(this.pictureBox10);
@@ -374,6 +385,7 @@
             this.Controls.Add(this.pictureBox8);
             this.Controls.Add(this.pictureBox7);
             this.Controls.Add(this.pictureBox6);
+            this.Controls.Add(this.pictureBox5);
             this.Controls.Add(this.pictureBox4);
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox2);
@@ -403,11 +415,11 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -434,6 +446,7 @@
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.PictureBox pictureBox3;
         private System.Windows.Forms.PictureBox pictureBox4;
+        private System.Windows.Forms.PictureBox pictureBox5;
         private System.Windows.Forms.PictureBox pictureBox6;
         private System.Windows.Forms.PictureBox pictureBox7;
         private System.Windows.Forms.PictureBox pictureBox8;
@@ -441,6 +454,5 @@
         private System.Windows.Forms.PictureBox pictureBox10;
         private System.Windows.Forms.PictureBox pictureBox11;
         private System.Windows.Forms.PictureBox pictureBox12;
-        private System.Windows.Forms.PictureBox pictureBox5;
     }
 }
